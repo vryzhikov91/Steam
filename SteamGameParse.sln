@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SteamGameParse", "SteamGameParse\SteamGameParse.csproj", "{1544C4B3-8834-446D-ADB5-2CB7CE9B35FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SteamGameParse.Data", "SteamGameParse.Data\SteamGameParse.Data.csproj", "{46F36519-540C-476C-831A-F55AEDB8EAFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SteamGameParse.IoC", "SteamGameParse.IoC\SteamGameParse.IoC.csproj", "{26634B95-8446-4CFE-B6A1-3CB18E285C77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SteamGameParse.Scrapper", "SteamGameParse.Scrapper\SteamGameParse.Scrapper.csproj", "{0D363B22-2FAC-4692-9BE1-DBB35E40D8D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1544C4B3-8834-446D-ADB5-2CB7CE9B35FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1544C4B3-8834-446D-ADB5-2CB7CE9B35FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1544C4B3-8834-446D-ADB5-2CB7CE9B35FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1544C4B3-8834-446D-ADB5-2CB7CE9B35FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46F36519-540C-476C-831A-F55AEDB8EAFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46F36519-540C-476C-831A-F55AEDB8EAFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46F36519-540C-476C-831A-F55AEDB8EAFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46F36519-540C-476C-831A-F55AEDB8EAFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26634B95-8446-4CFE-B6A1-3CB18E285C77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26634B95-8446-4CFE-B6A1-3CB18E285C77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26634B95-8446-4CFE-B6A1-3CB18E285C77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26634B95-8446-4CFE-B6A1-3CB18E285C77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D363B22-2FAC-4692-9BE1-DBB35E40D8D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D363B22-2FAC-4692-9BE1-DBB35E40D8D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D363B22-2FAC-4692-9BE1-DBB35E40D8D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D363B22-2FAC-4692-9BE1-DBB35E40D8D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
