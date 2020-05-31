@@ -6,7 +6,7 @@ namespace SteamGameParse.Scrapper
     public class AppIdentification
     {
         public string AppUrl { get; set; }
-        public string Id { get; set; }
+        public string Id { get; set; }  
 
         public Type ScraperType { get; set; }
         
