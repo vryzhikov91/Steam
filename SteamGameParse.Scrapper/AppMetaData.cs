@@ -7,6 +7,7 @@ namespace SteamGameParse.Scrapper
     {
         public string AppUrl { get; set; }
         public string Id { get; set; }
+        public string B { get; set; }
 
         public Type ScraperType { get; set; }
         
